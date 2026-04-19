@@ -1,1 +1,4 @@
 src
+server.py
+extensions-source-main/*
+__pycache__
